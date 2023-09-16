@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hdhsjfjdsj
-- 👀 I’m interested in Python,Java and C/C++. Interested in AIML too
+- 👀 I’m Interested in Python, Java, MySQL and C/C++. Interested in AIML too
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me discord
